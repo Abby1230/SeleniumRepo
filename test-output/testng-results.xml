@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-28T01:14:52Z" name="InetBanking" finished-at="2024-01-28T01:15:23Z" duration-ms="30113">
+    <groups>
+    </groups>
+    <test started-at="2024-01-28T01:14:52Z" name="BankingApp Test" finished-at="2024-01-28T01:15:23Z" duration-ms="30113">
+      <class name="com.inetbanking.TestCases.TC_NewAccount_005">
+        <test-method is-config="true" signature="SetUp(java.lang.String)[pri:0, instance:com.inetbanking.TestCases.TC_NewAccount_005@c03cf28]" started-at="2024-01-28T01:14:53Z" name="SetUp" finished-at="2024-01-28T01:15:02Z" duration-ms="8970" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="NewAccount()[pri:0, instance:com.inetbanking.TestCases.TC_NewAccount_005@c03cf28]" started-at="2024-01-28T01:15:02Z" name="NewAccount" finished-at="2024-01-28T01:15:22Z" duration-ms="19727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewAccount -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.inetbanking.TestCases.TC_NewAccount_005@c03cf28]" started-at="2024-01-28T01:15:22Z" name="teardown" finished-at="2024-01-28T01:15:23Z" duration-ms="508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.inetbanking.TestCases.TC_NewAccount_005 -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- InetBanking -->
+</testng-results>

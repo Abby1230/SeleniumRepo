@@ -1,0 +1,46 @@
+2024-01-20 10:52:29,042 - EBanking -INFO - Enter UserName
+2024-01-20 10:52:29,241 - EBanking -INFO - Enter PassWord
+2024-01-20 10:52:31,684 - EBanking -INFO - Click The Login Button
+2024-01-20 10:52:31,702 - EBanking -INFO - Login Test Pass
+2024-01-20 11:14:17,310 - EBanking -INFO - Enter UserName
+2024-01-20 11:14:17,497 - EBanking -INFO - Enter PassWord
+2024-01-20 11:14:19,250 - EBanking -INFO - Click The Login Button
+2024-01-20 11:14:19,323 - EBanking -INFO - Login Test Pass
+2024-01-21 10:08:56,290 - EBanking -INFO - Enter UserName
+2024-01-21 10:08:56,821 - EBanking -INFO - Enter PassWord
+2024-01-21 10:09:01,023 - EBanking -INFO - Click The Login Button
+2024-01-23 13:47:34,681 - EBanking -INFO - Enter UserName
+2024-01-23 13:47:35,053 - EBanking -INFO - Enter PassWord
+2024-01-23 13:47:36,811 - EBanking -INFO - Click The Login Button
+2024-01-23 13:47:36,828 - EBanking -INFO - Login Test Pass
+2024-01-23 13:58:07,197 - EBanking -INFO - Username is provided
+2024-01-23 13:58:07,410 - EBanking -INFO - Password is provided
+2024-01-23 13:58:12,433 - EBanking -INFO - Provided Customer details....
+2024-01-23 13:58:25,635 - EBanking -INFO - Valided started....
+2024-01-23 13:58:25,680 - EBanking -INFO - test cases pass....
+2024-01-25 08:13:43,264 - EBanking -INFO - Username is provided
+2024-01-25 08:13:43,446 - EBanking -INFO - Password is provided
+2024-01-25 08:13:50,010 - EBanking -INFO - Provided Customer details....
+2024-01-25 08:14:03,933 - EBanking -INFO - Valided started....
+2024-01-25 08:14:03,973 - EBanking -INFO - test cases pass....
+2024-01-25 08:17:08,146 - EBanking -INFO - Enter UserName
+2024-01-25 08:17:08,455 - EBanking -INFO - Enter PassWord
+2024-01-25 08:17:10,904 - EBanking -INFO - Click The Login Button
+2024-01-25 08:17:10,922 - EBanking -INFO - Login Test Pass
+2024-01-25 08:17:16,681 - EBanking -INFO - Username is provided
+2024-01-25 08:17:17,023 - EBanking -INFO - Password is provided
+2024-01-25 08:17:23,388 - EBanking -INFO - Provided Customer details....
+2024-01-25 08:17:37,775 - EBanking -INFO - Valided started....
+2024-01-25 08:17:37,852 - EBanking -INFO - test cases pass....
+2024-01-27 11:04:27,879 - EBanking -INFO - Username is provided
+2024-01-27 11:04:28,105 - EBanking -INFO - Password is provided
+2024-01-27 11:05:12,867 - EBanking -INFO - Username is provided
+2024-01-27 11:05:13,167 - EBanking -INFO - Password is provided
+2024-01-27 11:05:18,099 - EBanking -INFO - Provided Customer details....
+2024-01-27 11:05:34,220 - EBanking -INFO - Valided started....
+2024-01-27 11:05:34,266 - EBanking -INFO - test cases pass....
+2024-01-27 12:04:40,297 - EBanking -INFO - Username is provided
+2024-01-27 12:04:40,678 - EBanking -INFO - Password is provided
+2024-01-28 06:45:03,334 - EBanking -INFO - Username is provided
+2024-01-28 06:45:04,405 - EBanking -INFO - Password is provided
+2024-01-28 06:45:22,483 - EBanking -INFO - test cases pass....
