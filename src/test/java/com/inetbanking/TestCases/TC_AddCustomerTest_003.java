@@ -12,6 +12,7 @@ public class TC_AddCustomerTest_003 extends BaseClass {
 	@Test
 	public void addnewcustomer() throws InterruptedException, IOException 
 	{
+		System.out.println("the code update by me");
 		LoginPage lp = new LoginPage(driver);
 		lp.User_Name(UserName);
 		logger.info("Username is provided");
