@@ -10,6 +10,7 @@ public class TC_EditCustomer_004 extends BaseClass {
 	@Test
 	public void EditCustomer () throws InterruptedException {
 		
+		system.out.println("Shruti is updated");
 		LoginPage lp = new LoginPage(driver);
 		lp.User_Name(UserName);
 		logger.info("Username is provided");
